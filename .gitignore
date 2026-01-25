@@ -3,6 +3,7 @@
 
 # But track these specific items
 !.gitignore
+!README.md
 !settings.json
 !agents/
 !agents/**
