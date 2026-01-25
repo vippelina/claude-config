@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# But track these specific items
+!.gitignore
+!settings.json
+!agents/
+!agents/**
+!hooks/
+!hooks/**
