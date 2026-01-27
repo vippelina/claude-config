@@ -8,4 +8,5 @@
 !agents/
 !agents/**
 !hooks/
+!skills/
 !hooks/**
