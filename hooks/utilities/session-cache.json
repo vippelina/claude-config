@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-27T20:16:04.367Z",
+  "timestamp": "2026-02-05T19:12:42.128Z",
   "sessionId": "test-session",
   "project": "mybrain",
-  "memoriesLoaded": 8,
-  "recentCount": 8,
+  "memoriesLoaded": 7,
+  "recentCount": 3,
   "gitCommits": 10,
   "gitKeywords": [
     "add"
