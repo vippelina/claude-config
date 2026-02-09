@@ -138,7 +138,7 @@ Need info?
 **Example Multi-Tag Usage:**
 ```javascript
 {
-  "content": "Chose Haiku model for todoist-agent to minimize cost for frequent task operations",
+  "content": "Chose Haiku model for todo-agent to minimize cost for frequent task operations",
   "metadata": {
     "tags": "decision,todoist,claude-code,cost-optimization",
     "type": "decision"
@@ -163,7 +163,7 @@ Need info?
 - New project context established → Store project info
 - Breakthrough moment or insight → Store insight
 - Problem solved with workaround → Store issue + solution
-
+"command":
 **End of Session:**
 - Summary of what was accomplished (use for progress tracking)
 - Key decisions made (if not already stored)

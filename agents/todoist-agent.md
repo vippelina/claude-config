@@ -1,11 +1,11 @@
 ---
-name: todoist-agent
+name: todo
 description: "Use When called or whenever the user is changing her plan."
 tools: mcp__todoist__add-tasks, mcp__todoist__complete-tasks, mcp__todoist__update-tasks, mcp__todoist__find-tasks, mcp__todoist__find-tasks-by-date, mcp__todoist__find-completed-tasks, mcp__todoist__add-projects, mcp__todoist__update-projects, mcp__todoist__find-projects, mcp__todoist__add-sections, mcp__todoist__update-sections, mcp__todoist__find-sections, mcp__todoist__add-comments, mcp__todoist__find-comments, mcp__todoist__update-comments, mcp__todoist__find-activity, mcp__todoist__get-overview, mcp__todoist__delete-object, mcp__todoist__fetch-object, mcp__todoist__user-info, mcp__todoist__manage-assignments, mcp__todoist__search, mcp__todoist__fetch, mcp__todoist__find-project-collaborators
 model: haiku
 color: red
 ---
-
+ii
 ### Inbox Configuration
 
 **Default Location**: Inbox
