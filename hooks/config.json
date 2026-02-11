@@ -12,7 +12,7 @@
     "fallbackEnabled": true,
     "http": {
       "endpoint": "http://127.0.0.1:8000",
-      "apiKey": "VhOGAoUOE5_BMzu-phDORdyXHNMcDRBxvndK_Uop",
+      "apiKey": "${MEMORY_SERVICE_API_KEY}",
       "healthCheckTimeout": 3000,
       "useDetailedHealthCheck": true
     },
